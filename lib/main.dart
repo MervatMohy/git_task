@@ -63,7 +63,8 @@ class MyApp extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                             ),
                             child: Image.asset(
-                              'Images/339275786_212576251419955_7138305748209555148_n.jpg',
+                              'Images/article_full@1x.jpg',
+
                             ),
                           ),
                           const Padding(
@@ -93,7 +94,7 @@ class MyApp extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                             ),
                             child: Image.asset(
-                              'Images/339275786_212576251419955_7138305748209555148_n.jpg',
+                              'Images/article_full@1x.jpg',
                             ),
                           ),
                           const Padding(
@@ -134,7 +135,7 @@ class MyApp extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Image.asset(
-                          'Images/110910-Hermione-1-400_0 (1).jpg',
+                          'Images/harry-potter-the-series_qz8f.jpg',
                           alignment: Alignment.centerLeft,
                         ),
                       ),
@@ -178,7 +179,7 @@ class MyApp extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Image.asset(
-                          'Images/110910-Hermione-1-400_0 (1).jpg',
+                          'Images/harry-potter-the-series_qz8f.jpg',
                           alignment: Alignment.centerLeft,
                         ),
                       ),
@@ -222,7 +223,7 @@ class MyApp extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Image.asset(
-                          'Images/110910-Hermione-1-400_0 (1).jpg',
+                          'Images/harry-potter-the-series_qz8f.jpg',
                           alignment: Alignment.centerLeft,
                         ),
                       ),
